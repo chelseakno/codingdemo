@@ -1,2 +1,2 @@
 # codingdemo
-smu bootcamp prework practice
+coding practice
